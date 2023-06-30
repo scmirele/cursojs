@@ -1,3 +1,3 @@
 alert('minha primeira mensagem eba xxD')
-confirm('tá gojs? yes or yes')
+confirm('you like js? yes or yes')
 prompt('whats your name, dev?')
